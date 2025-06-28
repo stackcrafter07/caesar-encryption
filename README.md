@@ -1,7 +1,7 @@
 # caesar-encryption
 # 🔐 Caesar Cipher
 
-This program implements a **Caesar cipher**, a simple encryption technique where each letter in the plaintext is shifted by a fixed number of positions down the alphabet. It was built as part of the [CS50x](https://cs50.harvard.edu/x/) course by Harvard.
+This program implements a **Caesar cipher**, a simple encryption technique where each letter in the plaintext is shifted by a fixed number of positions down the alphabet. It was built as part of the CS50x.
 
 ---
 
