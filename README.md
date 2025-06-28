@@ -36,6 +36,4 @@ Input:
 
 plaintext: Hello, world!
 
-Output:
-
 ciphertext: Khoor, zruog!
